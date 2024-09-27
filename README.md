@@ -1,0 +1,3 @@
+# 👋 Hi, I’m @nazmul-nil
+I'm proficient in python for Data Science, R and SQL and JavaScript, REACT and NextJS for web development.... 
+
